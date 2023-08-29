@@ -1,0 +1,5 @@
+- 👋 Greetings, my name is Hunter Froemming.
+- 👀 I’m a first year student at the University of Colorado Boulder
+- 🌱 I’m currently studying Computer Science with an undecided focus, maybe cyber security, or maybe video game design.
+- 💞️ I have a bit of experience in coding with Python and GML2.
+- 📫 You can reach me through my email: Hunter.K.Froemming@gmail.com
